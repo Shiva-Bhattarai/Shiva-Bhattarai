@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **C**
 
-- 💬 Ask me about **Html, Css,**
+- 💬 Ask me about **Html, CSS,**
 
 - 📫 How to reach me **bhattaraiashiva759@gmail.com**
 
