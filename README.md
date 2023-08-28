@@ -10,12 +10,12 @@
 
 - 💬 Ask me about **Html, CSS**
 
-- 📫 How to reach me **bhattaraiashiva759@gmail.com**
+- 📫 How to reach me **bhattaraishiva759@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/shiva-bhattarai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@shiva-bhattarai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shiva bhattarai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiva bhattarai" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shiva-bhattarai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiva bhattarai" height="30" width="40" /></a>
 <a href="https://www.facebook.com/bhattaraishiva00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shiva bhattarai" height="30" width="40" /></a>
 <a href="https://www.instagram.com/that_is_shiva_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="that_is_shiva_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/shiva bhattarai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shiva bhattarai" height="30" width="40" /></a>
