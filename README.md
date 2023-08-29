@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **web app**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **C, Javascript**
 
 - 💬 Ask me about **Html, CSS**
 
