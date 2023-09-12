@@ -28,5 +28,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Shiva-Bhattarai&show_icons=true&locale=en" alt="shiva-bhattarai" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shiva-Bhattarai&" alt="shiva-bhattarai" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiva-bhattarai&" alt="shiva-bhattarai" /></p>
 
